@@ -1,0 +1,21 @@
+:root {
+
+    /*Cores*/
+    --branco: #FFFFFF;
+    --cinza-claro: #667085;
+    --cinza-escuro: #101828;
+    --vinho: #8E2424;
+
+    --cinza-bg: #F9FAFB;
+    --vernelho-bg: rgba(196, 25, 25, 0.03);
+    --vinho-bg: rgba(142, 36, 36, 0.05);
+
+    /*Fontes*/
+    --fonte-texto: 'Inter', sans-serif;
+
+    --peso-texto: 400;
+    --peso-titulo: 600;
+    --peso-sub-titulo: 500;
+    --peso-destaque: 600;
+    --peso-botao: 600;
+}
